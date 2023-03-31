@@ -1,6 +1,5 @@
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="right" width="500"></br>
-
-## 👷🏻‍♀️👋🏻 Hi there, I'm SEVDA  👷🏻‍♀️👋
+😎👋🏻 Hi there, I'm SEVDA 👩‍🏫👋
 
 <font color="pink"> 🐱‍🏍 I'm Math Teacher but I find myself in software. </font>
 </br>
